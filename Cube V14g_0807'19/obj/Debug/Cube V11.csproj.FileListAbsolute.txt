@@ -1,0 +1,266 @@
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Вневерсионнки\Cube V11\obj\Debug\Cube_V11.ResearcheForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.1\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.2\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3 — копия\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.1\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V11.3.2\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V14\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\bin\Debug\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\bin\Debug\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\bin\Debug\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\Cube V11.exe.config
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\Cube V11.exe
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\Cube V11.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.dll
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.xml
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.Form1.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.Form2.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.BodyConfigForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.Forms.DrawingStatistic.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.NandMForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.NAngleForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.Forms.NodeViewer.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.Properties.Resources.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube V11.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube V11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube V11.csproj.CopyComplete
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube V11.exe
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube V11.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube V11.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Debug\Cube_V11.Forms.RhombusForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\Cube V11.exe.config
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\Cube V11.exe
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\Cube V11.pdb
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.dll
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.WinForms.dll
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.Wpf.dll
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.pdb
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.xml
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.WinForms.pdb
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.WinForms.xml
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.Wpf.pdb
+D:\_Uni\diplom\Cube V14g_0807'19\bin\Debug\LiveCharts.Wpf.xml
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.Form1.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.Form2.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.BodyConfigForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.Forms.DrawingStatistic.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.NandMForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.NAngleForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.Forms.NodeViewer.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.Forms.RhombusForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.Properties.Resources.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube V11.exe
+D:\_Uni\diplom\Cube V14g_0807'19\obj\Debug\Cube V11.pdb
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\Cube V11.exe.config
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\Cube V11.exe
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\Cube V11.pdb
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.dll
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.WinForms.dll
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.Wpf.dll
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.pdb
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.xml
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.WinForms.pdb
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.WinForms.xml
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.Wpf.pdb
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\bin\Debug\LiveCharts.Wpf.xml
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube V11.csprojResolveAssemblyReference.cache
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.Form1.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.Form2.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.BodyConfigForm.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.Forms.DrawingStatistic.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.NandMForm.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.NAngleForm.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.Forms.NodeViewer.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.Forms.RhombusForm.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.NAngleEmprovedForm.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.Properties.Resources.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.ResearchNandMFForm.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube_V11.ResearchNAngleForm.resources
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube V11.csproj.GenerateResource.Cache
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube V11.exe
+D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\obj\Debug\Cube V11.pdb

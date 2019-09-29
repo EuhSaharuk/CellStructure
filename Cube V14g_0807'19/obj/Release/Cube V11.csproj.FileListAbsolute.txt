@@ -1,0 +1,220 @@
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\bin\Release\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\bin\Release\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\bin\Release\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube V11.csproj.GenerateResource.Cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V12.1 — без вспомогательных элементов\obj\Release\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\bin\Release\Cube V11.exe.config
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\bin\Release\Cube V11.exe
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\bin\Release\Cube V11.pdb
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube V11.csprojResolveAssemblyReference.cache
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.Form1.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.Form2.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.BodyConfigForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.NandMForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.NAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.Properties.Resources.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.ResearchNandMFForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube_V11.ResearchNAngleForm.resources
+C:\Users\kola\Desktop\Куб\Основные версии\Cube V13\obj\Release\Cube V11.csproj.GenerateResource.Cache
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\bin\Release\Cube V11.exe.config
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube V11.exe
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube V11.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\bin\Release\Cube V11.exe
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\bin\Release\Cube V11.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube V11.csprojResolveAssemblyReference.cache
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.Form1.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.Form2.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.BodyConfigForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.NandMForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.NAngleForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.Properties.Resources.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.ResearchNandMFForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube_V11.ResearchNAngleForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V13_1402'19\obj\Release\Cube V11.csproj.GenerateResource.Cache
+I:\Cube V13_1402'19\bin\Release\Cube V11.exe.config
+I:\Cube V13_1402'19\bin\Release\Cube V11.exe
+I:\Cube V13_1402'19\bin\Release\Cube V11.pdb
+I:\Cube V13_1402'19\obj\Release\Cube V11.csprojAssemblyReference.cache
+I:\Cube V13_1402'19\obj\Release\Cube_V11.Form1.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.Form2.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.BodyConfigForm.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.NandMForm.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.NAngleForm.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.Properties.Resources.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.ResearchNandMFForm.resources
+I:\Cube V13_1402'19\obj\Release\Cube_V11.ResearchNAngleForm.resources
+I:\Cube V13_1402'19\obj\Release\Cube V11.csproj.GenerateResource.cache
+I:\Cube V13_1402'19\obj\Release\Cube V11.csproj.CoreCompileInputs.cache
+I:\Cube V13_1402'19\obj\Release\Cube V11.exe
+I:\Cube V13_1402'19\obj\Release\Cube V11.pdb
+I:\Cube V13_1402'19\bin\Release\LiveCharts.dll
+I:\Cube V13_1402'19\bin\Release\LiveCharts.WinForms.dll
+I:\Cube V13_1402'19\bin\Release\LiveCharts.Wpf.dll
+I:\Cube V13_1402'19\bin\Release\LiveCharts.pdb
+I:\Cube V13_1402'19\bin\Release\LiveCharts.xml
+I:\Cube V13_1402'19\bin\Release\LiveCharts.WinForms.pdb
+I:\Cube V13_1402'19\bin\Release\LiveCharts.WinForms.xml
+I:\Cube V13_1402'19\bin\Release\LiveCharts.Wpf.pdb
+I:\Cube V13_1402'19\bin\Release\LiveCharts.Wpf.xml
+I:\Cube V13_1402'19\obj\Release\Cube_V11.Forms.DrawingStatistic.resources
+I:\Cube V13_1402'19\obj\Release\Cube V11.csproj.CopyComplete
+I:\Cube V13g_1404'19\bin\Release\Cube V11.exe.config
+I:\Cube V13g_1404'19\bin\Release\Cube V11.exe
+I:\Cube V13g_1404'19\bin\Release\Cube V11.pdb
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.dll
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.WinForms.dll
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.Wpf.dll
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.pdb
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.xml
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.WinForms.pdb
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.WinForms.xml
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.Wpf.pdb
+I:\Cube V13g_1404'19\bin\Release\LiveCharts.Wpf.xml
+I:\Cube V13g_1404'19\obj\Release\Cube V11.csprojAssemblyReference.cache
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.Form1.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.Form2.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.BodyConfigForm.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.Forms.DrawingStatistic.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.NandMForm.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.NAngleForm.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.Properties.Resources.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.ResearchNandMFForm.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.ResearchNAngleForm.resources
+I:\Cube V13g_1404'19\obj\Release\Cube V11.csproj.GenerateResource.cache
+I:\Cube V13g_1404'19\obj\Release\Cube V11.csproj.CoreCompileInputs.cache
+I:\Cube V13g_1404'19\obj\Release\Cube V11.csproj.CopyComplete
+I:\Cube V13g_1404'19\obj\Release\Cube V11.exe
+I:\Cube V13g_1404'19\obj\Release\Cube V11.pdb
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.Forms.GraphicProp.resources
+I:\Cube V13g_1404'19\obj\Release\Cube_V11.Forms.NodeViewer.resources
+I:\Cube V14g_0305'19\obj\Release\Cube V11.csprojAssemblyReference.cache
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.Form1.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.Form2.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.BodyConfigForm.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.DrawingStatistic.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.NandMForm.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleForm.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.NodeViewer.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.Properties.Resources.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNandMFForm.resources
+I:\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNAngleForm.resources
+I:\Cube V14g_0305'19\obj\Release\Cube V11.csproj.GenerateResource.cache
+I:\Cube V14g_0305'19\obj\Release\Cube V11.csproj.CoreCompileInputs.cache
+I:\Cube V14g_0305'19\obj\Release\Cube V11.exe
+I:\Cube V14g_0305'19\obj\Release\Cube V11.pdb
+I:\Cube V14g_0305'19\bin\Release\Cube V11.exe.config
+I:\Cube V14g_0305'19\bin\Release\Cube V11.exe
+I:\Cube V14g_0305'19\bin\Release\Cube V11.pdb
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.dll
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.dll
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.dll
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.pdb
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.xml
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.pdb
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.xml
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.pdb
+I:\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.xml
+I:\Cube V14g_0305'19\obj\Release\Cube V11.csproj.CopyComplete
+H:\Cube V14g_0305'19\bin\Release\Cube V11.exe.config
+H:\Cube V14g_0305'19\bin\Release\Cube V11.exe
+H:\Cube V14g_0305'19\bin\Release\Cube V11.pdb
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.dll
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.dll
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.dll
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.pdb
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.xml
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.pdb
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.xml
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.pdb
+H:\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.xml
+H:\Cube V14g_0305'19\obj\Release\Cube V11.csprojAssemblyReference.cache
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.Form1.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.Form2.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.BodyConfigForm.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.DrawingStatistic.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.NandMForm.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleForm.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.NodeViewer.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.Properties.Resources.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNandMFForm.resources
+H:\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNAngleForm.resources
+H:\Cube V14g_0305'19\obj\Release\Cube V11.csproj.GenerateResource.cache
+H:\Cube V14g_0305'19\obj\Release\Cube V11.csproj.CoreCompileInputs.cache
+H:\Cube V14g_0305'19\obj\Release\Cube V11.csproj.CopyComplete
+H:\Cube V14g_0305'19\obj\Release\Cube V11.exe
+H:\Cube V14g_0305'19\obj\Release\Cube V11.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\Cube V11.exe.config
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube V11.exe
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube V11.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\Cube V11.exe
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\Cube V11.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.dll
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.dll
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.dll
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.xml
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.xml
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.pdb
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.xml
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube V11.csprojResolveAssemblyReference.cache
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.Form1.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.Form2.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.BodyConfigForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.DrawingStatistic.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.NandMForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.NodeViewer.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.Properties.Resources.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNandMFForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNAngleForm.resources
+G:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'18-19\1_Bntu_Diploms'18-19\Bntu_Diplom_CellsCalcByApiSw_ЮхоЕН_'18\Cube V14g_0305'19\obj\Release\Cube V11.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\Cube V11.exe.config
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\Cube V11.exe
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\Cube V11.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.dll
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.dll
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.dll
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.xml
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.WinForms.xml
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\admin\Documents\Cube V14g_0305'19\bin\Release\LiveCharts.Wpf.xml
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube V11.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.Form1.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.Form2.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.BodyConfigForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.DrawingStatistic.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.NandMForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.Forms.NodeViewer.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.NAngleEmprovedForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.Properties.Resources.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNandMFForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube_V11.ResearchNAngleForm.resources
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube V11.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube V11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube V11.csproj.CopyComplete
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube V11.exe
+C:\Users\admin\Documents\Cube V14g_0305'19\obj\Release\Cube V11.pdb
