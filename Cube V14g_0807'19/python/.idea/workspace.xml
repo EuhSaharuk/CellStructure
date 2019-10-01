@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e5af680-a892-4704-8dd0-cbf590dec947" name="Default Changelist" comment="" />
+    <list default="true" id="8e5af680-a892-4704-8dd0-cbf590dec947" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cells.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cells.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.exe" beforeDir="false" afterPath="$PROJECT_DIR$/application.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.spec" beforeDir="false" afterPath="$PROJECT_DIR$/application.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/warn-application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/warn-application.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/application/xref-application.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/application/xref-application.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +80,31 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="54387489">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="105" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="105" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Window.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1258">
+            <state relative-caret-position="391">
               <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -82,23 +115,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qq1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calculations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+            <state relative-caret-position="187">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#1671#1823#1" />
-                <element signature="e#1786#2537#1" />
                 <element signature="e#3423#3482#1" />
               </folding>
             </state>
@@ -126,21 +149,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cells.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+            <state relative-caret-position="236">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1569492124070" expanded="true" signature="388:420" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="689:809" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="850:851" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="1575:1576" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="1575:1581" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="2694:2698" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="5386:5387" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="5386:5392" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="521:553" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="822:978" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="1019:1020" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="1767:1768" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="1767:1773" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="2922:2926" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="5614:5615" ph="..." />
+                <marker date="1569952804389" expanded="true" signature="5614:5620" ph="..." />
               </folding>
             </state>
           </provider>
@@ -155,6 +178,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -163,8 +189,8 @@
         <option value="$PROJECT_DIR$/qq1.py" />
         <option value="$PROJECT_DIR$/BodyParameters.py" />
         <option value="$PROJECT_DIR$/Window.py" />
-        <option value="$PROJECT_DIR$/Cells.py" />
         <option value="$PROJECT_DIR$/Calculations.py" />
+        <option value="$PROJECT_DIR$/Cells.py" />
       </list>
     </option>
   </component>
@@ -180,6 +206,7 @@
     <option name="width" value="986" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -190,8 +217,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="diplom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diplom" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,9 +319,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="621" y="1" width="986" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11231101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16066837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,7 +335,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3328841" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32845744" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,10 +381,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qq1.py">
+    <entry file="file://$PROJECT_DIR$/qq1.py" />
+    <entry file="file://$PROJECT_DIR$/Window.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="391">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1569489313398" expanded="true" signature="262:8546" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1671#1823#1" />
+            <element signature="e#3423#3482#1" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -365,17 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1258">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1569489313398" expanded="true" signature="262:8546" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -391,31 +424,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Cells.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+        <state relative-caret-position="236">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1569492124070" expanded="true" signature="388:420" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="689:809" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="850:851" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="1575:1576" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="1575:1581" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="2694:2698" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="5386:5387" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="5386:5392" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Calculations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#1671#1823#1" />
-            <element signature="e#1786#2537#1" />
-            <element signature="e#3423#3482#1" />
+            <marker date="1569952804389" expanded="true" signature="521:553" ph="..." />
+            <marker date="1569952804389" expanded="true" signature="822:978" ph="..." />
+            <marker date="1569952804389" expanded="true" signature="1019:1020" ph="..." />
+            <marker date="1569952804389" expanded="true" signature="1767:1768" ph="..." />
+            <marker date="1569952804389" expanded="true" signature="1767:1773" ph="..." />
+            <marker date="1569952804389" expanded="true" signature="2922:2926" ph="..." />
+            <marker date="1569952804389" expanded="true" signature="5614:5615" ph="..." />
+            <marker date="1569952804389" expanded="true" signature="5614:5620" ph="..." />
           </folding>
         </state>
       </provider>

@@ -7,9 +7,9 @@ class Calculations:
     def __init__(self, window):
         self.window = window
         self.body_params = BodyParameters(0, 0, 0)
-        self.start = 0
-        self.end = 0
-        self.step = 0
+        self.start = Decimal('0')
+        self.end = Decimal('0')
+        self.step = Decimal('0')
         self.cells = AbstractAngle
 
     def calculate(self, body_params):

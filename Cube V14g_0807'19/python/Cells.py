@@ -1,21 +1,21 @@
 from abc import ABC, abstractmethod
 from BodyParameters import *
 from math import pi, tan, sin
-
+from decimal import Decimal
 
 class AbstractAngle(ABC):
 
     body = BodyParameters(0, 0, 0)
-    accuracy = 7
-    columns = rows = 0
-    side = 0
-    angle_num = 0
-    cell_heigh = 0
-    local = 0
-    s_cells = s_cell = 0
-    radius = 0
+    accuracy = Decimal("7")
+    columns = rows = Decimal('0')
+    side =  Decimal('0')
+    angle_num =  Decimal('0')
+    cell_heigh =  Decimal('0')
+    local =  Decimal('0')
+    s_cells = s_cell =  Decimal('0')
+    radius =  Decimal('0')
     availability = False
-    v_cells = 0
+    v_cells =  Decimal('0')
     info = ""
 
     def __init__(self, body):
@@ -34,9 +34,9 @@ class AbstractAngle(ABC):
 
 class AbstractRelationAngle(AbstractAngle, ABC):
 
-    k_x = k_y = 0
-    max_c = pi / 4
-    relation = 0
+    k_x = k_y = Decimal('0')
+    max_c = Decimal(str(pi / 4))
+    relation = Decimal('0')
 
     def __init__(self, body):
         super().__init__(body)
@@ -64,8 +64,8 @@ class CircleCells(AbstractRelationAngle):
 
 class TriangleCells(AbstractAngle):
 
-    triangle_height = 0
-    k_x = k_y = 0
+    triangle_height =  Decimal('0')
+    k_x = k_y = Decimal('0')
 
     def __init__(self, body_params):
         super().__init__(body_params)
@@ -97,9 +97,9 @@ class TriangleCells(AbstractAngle):
 
 class RectangleCells(AbstractAngle):
 
-    k = 0
-    v_cell_fact = 0
-    cell_width = cell_length = 0
+    k =  Decimal('0')
+    v_cell_fact =  Decimal('0')
+    cell_width = cell_length =  Decimal('0')
 
     def __init__(self, body_params):
         super().__init__(body_params)
