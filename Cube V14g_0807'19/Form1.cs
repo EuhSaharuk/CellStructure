@@ -72,7 +72,7 @@ namespace Cube_V11
             string parameters = FreeClass.body.GetWidth().ToString() + " " + FreeClass.body.GetLenght().ToString() + " " + FreeClass.body.GetHeight().ToString();
             //Process p = Process.Start("123.py", "/C one 2 3");
             //System.Diagnostics.Process.Start("cmd.exe", "/")
-            Process p = Process.Start("..\\..\\..\\application.exe", parameters);
+            Process p = Process.Start("..\\..\\python\\application.exe", parameters);
             //Process p = Process.Start("cmd.exe", "/C python ..\\..\\..\\application.py " + parameters);
             //System.Diagnostics.Process.Start("edge.exe", "tut.by");
             //Process p = Process.Start(startInfo);
