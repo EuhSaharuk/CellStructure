@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['application.py'],
-             pathex=['D:\\_Uni\\Ячеистые структуры'],
+             pathex=["D:\\_Uni\\Ячеистые структуры\\Cube V14g_0807'19\\python"],
              binaries=[],
              datas=[],
              hiddenimports=[],
