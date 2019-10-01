@@ -71,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Window.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1258">
+            <state relative-caret-position="391">
               <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -82,23 +82,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qq1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calculations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+            <state relative-caret-position="187">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#1671#1823#1" />
-                <element signature="e#1786#2537#1" />
                 <element signature="e#3423#3482#1" />
               </folding>
             </state>
@@ -126,21 +116,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cells.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+            <state relative-caret-position="680">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1569492124070" expanded="true" signature="388:420" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="689:809" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="850:851" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="1575:1576" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="1575:1581" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="2694:2698" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="5386:5387" ph="..." />
-                <marker date="1569492124070" expanded="true" signature="5386:5392" ph="..." />
+                <marker date="1569953597773" expanded="true" signature="2694:2698" ph="..." />
+                <marker date="1569953597773" expanded="true" signature="5386:5387" ph="..." />
+                <marker date="1569953597773" expanded="true" signature="5386:5392" ph="..." />
               </folding>
             </state>
           </provider>
@@ -154,6 +139,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -180,6 +168,7 @@
     <option name="width" value="986" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -190,8 +179,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="diplom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diplom" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,6 +196,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_Uni\Ячеистые структуры\Cube V14g_0807'19\python" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\_Uni\diplom" />
     </key>
@@ -292,9 +284,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="621" y="1" width="986" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11231101" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16066837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,7 +301,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3328841" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32845744" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,13 +347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qq1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/qq1.py" />
     <entry file="file://$PROJECT_DIR$/application.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -370,7 +357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Window.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1258">
+        <state relative-caret-position="391">
           <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -391,30 +378,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Cells.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+        <state relative-caret-position="680">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1569492124070" expanded="true" signature="388:420" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="689:809" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="850:851" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="1575:1576" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="1575:1581" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="2694:2698" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="5386:5387" ph="..." />
-            <marker date="1569492124070" expanded="true" signature="5386:5392" ph="..." />
+            <marker date="1569953597773" expanded="true" signature="2694:2698" ph="..." />
+            <marker date="1569953597773" expanded="true" signature="5386:5387" ph="..." />
+            <marker date="1569953597773" expanded="true" signature="5386:5392" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Calculations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <element signature="e#1671#1823#1" />
-            <element signature="e#1786#2537#1" />
             <element signature="e#3423#3482#1" />
           </folding>
         </state>
